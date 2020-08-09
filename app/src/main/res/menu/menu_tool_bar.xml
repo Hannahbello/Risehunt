@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Post"
+          android:id="@+id/post"
+          app:showAsAction="always"
+    />
+<item android:title="profileAvatar"
+      android:id="@+id/profile_avatar"
+      app:showAsAction="always"
+      android:icon="@drawable/profile_picture"/>
+
+</menu>
